@@ -1,0 +1,7 @@
+{
+  "javascript.suggest.autoImports": false,
+  "typescript.suggest.autoImports": false,
+  "cSpell.words": [
+    "paren"
+  ]
+}
